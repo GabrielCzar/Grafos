@@ -32,4 +32,6 @@ _Em uma busca em largura são percorridos primeiros os vertices adjacentes_
   - Recomendado ver todas as execuções mas se precisar somente de uma use o grafo CP3 4.3
 
 - Implementação
+  - Grafo utilizado:
+    ![](busca_em_largura.png)
   - [BFS em C++](main.cpp)
