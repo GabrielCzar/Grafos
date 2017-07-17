@@ -23,7 +23,7 @@ _Em uma busca em largura são percorridos primeiros os vertices adjacentes_
 - Complexidade:
   - A inicialização consome tempo Θ(V).
   - Depois que um vertice deixa de ser branco, ele não volta a ser branco novamente. Assim, cada vertice é inserido na fila Q no maximo uma vez. Cada operação sobre a fila consome tempo Θ(1) resultando em um total de O(V).
-  - Em uma lista de adjacencia, cada v ˆ ertice ´ e percorrido apenas uma vez. A soma dos comprimentos das listas é Θ(E). Assim, o tempo gasto para percorrer as listas é O(E).
+  - Em uma lista de adjacencia, cada vértice é percorrido apenas uma vez. A soma dos comprimentos das listas é Θ(E). Assim, o tempo gasto para percorrer as listas é O(E).
   Logo a Complexidade de tempo da BFS é O(V + E).
 
 - Exemplo:  
