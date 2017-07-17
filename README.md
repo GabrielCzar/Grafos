@@ -10,16 +10,16 @@
 	A[i, j] = { 1 se (i, j) pertence a E,
 		        { 0 caso contrário.
 	```
-	![](img/matriz_adj.png)
+	![](/img/matriz_adj.png)
 
-	![](img/matriz_adj_dir.png)
+	![](/img/matriz_adj_dir.png)
 
 	- Lista de Adjacências  
 	_Para cada vértice **v**, temos uma linked list Adj[v] dos 	vértices adjacentes a **v**, ou seja, **w** aparece em Adj[v] se **(v, w)** é uma aresta de G. Os vértices podem estar em qualquer ordem em uma lista._
 
-	![](img/lista_adj.png)
+	![](/img/lista_adj.png)
 
-	![](img/lista_adj_dir.png)
+	![](/img/lista_adj_dir.png)
 
 ---
 
